@@ -10,6 +10,7 @@ python-backend/
 └── Dockerfile         # Backend Docker 이미지 빌드 설정
 ```
 
+
 #### 주요 기능
 - Flask 기반 REST API 서버
 - CORS 지원 (모든 출처 허용)
